@@ -8,28 +8,28 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "CSA Dublin"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "Community Supported Agriculture Dublin"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes."
+description: "The CSA Dublin is a community-supported agriculture group that establishes a relationship with a farmer for a growing season. It benefits both parties in that buyers get good quality food straight from the source (no middlemen) and the farmer gets a fair price for his or her produce."
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: csa
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io/feeling-responsive'
+url: 'https://www.janknappe.com/csadublin'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: 
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -37,7 +37,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
@@ -102,7 +102,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: csa     # Default author for pages
   -
     scope:
       path: ""
@@ -111,7 +111,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: csa     # Default author for posts
 
 
 
