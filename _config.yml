@@ -24,8 +24,8 @@ author: csa
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://www.janknappe.com/csadublin'
-baseurl: 'https://www.janknappe.com/csadublin'
+url: 'https://www.janknappe.com'
+baseurl: '/csadublin'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -62,6 +62,7 @@ include: ['.htaccess']
 # Exclude these files from your production _site
 exclude:
     - .sass-cache
+    - Gemfile
     - Gemfile
     - Gemfile.lock
     - LICENSE
