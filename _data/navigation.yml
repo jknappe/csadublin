@@ -4,15 +4,30 @@
 - title: "Home"
   url: "/"
   side: left
+  
+- title: "About Us"
+  url: "/about/"
+  side: left
+  dropdown:
+  - title: "What is Dublin CSA?"
+    url: "/about/dublin-csa/"
+  - title: "How it works"
+    url: "/about/how-it-works/"
+  - title: "Pricing"
+    url: "/about/pricing/"
+  - title: "Our Growers"
+    url: "/about/growers/"
+  - title: "FAQ's"
+    url: "/about/faq/"
+    
+- title: "Join"
+  url: "/join/"
+  side: left
 
-- title: "News"
+- title: "Community News"
   url: "/news/"
   side: left
   
-- title: "Recipies"
-  url: "/recipies/"
-  side: left
-
 - title: Events
   url: "/events/"
   side: left

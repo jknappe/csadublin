@@ -1,15 +1,10 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact Us"
+meta_title: "Contact"
 subheadline: ""
 teaser: ""
 permalink: "/contact/"
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
-
-
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
+If you’re interested in the CSA Dublin, just drop us a line per email at [csadublin@gmail.com](mailto:csadublin@gmail.com) or check out our [Facebook page](https://www.facebook.com/dublincsa).

@@ -8,11 +8,11 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "CSA Dublin"
+title: "Dublin CSA"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Community Supported Agriculture Dublin"
+slogan: "Community-supported agriculture made in Dublin"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -147,17 +147,17 @@ defaults:
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          "favicon-32x32.png"
-touch-icon-192x192:                     "touch-icon-192x192.png"
-apple-touch-icon-180x180-precomposed:   "apple-touch-icon-180x180-precomposed.png"
-apple-touch-icon-152x152-precomposed:   "apple-touch-icon-152x152-precomposed.png"
-apple-touch-icon-144x144-precomposed:   "apple-touch-icon-144x144-precomposed.png"
-apple-touch-icon-120x120-precomposed:   "apple-touch-icon-120x120-precomposed.png"
-apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114-precomposed.png"
-apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76-precomposed.png"
-apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72-precomposed.png"
-apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
-msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
+favicon-32x32:                          "favicons/favicon-32x32.png"
+touch-icon-192x192:                     "favicons/touch-icon-192x192.png"
+apple-touch-icon-180x180-precomposed:   "favicons/apple-touch-icon-180x180-precomposed.png"
+apple-touch-icon-152x152-precomposed:   "favicons/apple-touch-icon-152x152-precomposed.png"
+apple-touch-icon-144x144-precomposed:   "favicons/apple-touch-icon-144x144-precomposed.png"
+apple-touch-icon-120x120-precomposed:   "favicons/apple-touch-icon-120x120-precomposed.png"
+apple-touch-icon-114x114-precomposed:   "favicons/apple-touch-icon-114x114-precomposed.png"
+apple-touch-icon-76x76-precomposed:     "favicons/apple-touch-icon-76x76-precomposed.png"
+apple-touch-icon-72x72-precomposed:     "favicons/apple-touch-icon-72x72-precomposed.png"
+apple-touch-icon-precomposed:           "favicons/apple-touch-icon-precomposed.png"
+msapplication_tileimage:                "favicons/msapplication_tileimage.png"               # Size 144x144
 msapplication_tilecolor:                "#fabb00"
 
 

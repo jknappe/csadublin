@@ -1,0 +1,27 @@
+<article class="tile" itemscope itemtype="http://schema.org/Article">
+
+  <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+  
+  <br>
+
+  <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="post-thumb">  
+  {% if post.image.thumb %}
+	<img src="{{ site.baseurl }}/images/{{ post.image.thumb }}" alt="thumb" itemprop="image">
+  {% else %}
+	<img src="{{ site.baseurl }}/images/{{ site.thumb }}" alt="thumb" itemprop="image">
+  {% endif %}
+  </a>
+  
+  
+  
+  <p class="post-excerpt" itemprop="description">
+  
+  <br>
+  
+    {{ post.excerpt | strip_html | truncate: 230 }}<br>
+  {% if post.date %}
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished"><font color="grey" size = "-1">posted on {{ post.date | date: "%B %d, %Y" }}</font></time></p>
+  {% endif %}
+  
+</article><!-- /.tile -->
+
