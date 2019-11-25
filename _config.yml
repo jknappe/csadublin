@@ -237,3 +237,38 @@ sass:
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
+
+
+
+
+
+
+
+
+
+
+
+# Calendar collection: events
+# ======================================
+
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
