@@ -29,6 +29,6 @@ Seamus's wonderful Christmas tale starts in a afar away land...
 
 [tyrone](https://en.wikipedia.org/wiki/County_Tyrone)
 
-# SOme interesting facts about Tyrone:
+# Some super interesting facts about Tyrone:
 - IT's great
 - There's loads of sheep
