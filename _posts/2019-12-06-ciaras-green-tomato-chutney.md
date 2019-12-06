@@ -15,7 +15,7 @@ tags:
 
 image:
   header: "/recipes/chiaras-green-tomato-chutney.jpg"
-  thumb: "/recipes/chiaras-green-tomato-chutney.jpg"
+  thumb: "/recipes/chiaras-green-tomato-chutney-thumb.jpg"
   homepage: "/recipes/chiaras-green-tomato-chutney.jpg"
 ---
 
