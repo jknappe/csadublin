@@ -50,8 +50,8 @@ YAML header arguments:
 - `show_meta:` *true*, *false* ... enables/diables display of meta data at the end of the post (e.g. author, category, tags)
 - `image:` has three sub-arguments
   - `header:` 
-  - `thumb:`
-  - `homepage:` link to image feature on the index page, needs to be 970 px wide
+  - `thumb:` link to thumbnail image used on archive pages; 150 x 150 px
+  - `homepage:` link to image feature on the index page; 970 px wide
 
 ### ...customize the sidebar?
 
