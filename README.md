@@ -8,12 +8,12 @@ This website is hosten on GitHub and written in Jekyll. We use the [Feeling Resp
 
 ## How to...
 
-### ... edit the navigation panel?
+### ...edit the navigation menu?
 
-To customize the navigation panel, open `_data/navigation.yml`. You can add menu items with the following code for a directly clickable item:
+To customize the navigation menu, open `_data/navigation.yml`. You can add menu items with the following code for a directly clickable item:
 
 ```
-- title: "Title"	# text that will appears in the navigation panel
+- title: "Title"	# text that will appears in the navigation menu
   url: "/url"		# relative link address
   side: left		# alignment of menu item (left, right)
 ```
@@ -30,3 +30,14 @@ or similarly ig you want to create a menu item with dropdown options:
   - title: "How it works"
     url: "/about/how-it-works/"
 ```
+
+### ...add a new static page?
+
+
+
+### ...add a new blog post?
+
+YAML header arguments:
+
+- `sidebar`: *true*, *false* ... enables/diables a sidebar on the left
+- `show_meta`: *true*, *false* ... enables/diables display of meta data at the end of the post (e.g. author, category, tags)
