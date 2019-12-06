@@ -39,5 +39,33 @@ or similarly ig you want to create a menu item with dropdown options:
 
 YAML header arguments:
 
+- `layout`:
+- `title`:
+- `subheadline`:
+- `author`:
+- `teaser`:
+- `categories`:
+- `tags`:
 - `sidebar`: *true*, *false* ... enables/diables a sidebar on the left
 - `show_meta`: *true*, *false* ... enables/diables display of meta data at the end of the post (e.g. author, category, tags)
+- `image`: has three sub-arguments
+  - `header`: 
+  - `thumb`:
+  - `homepage`:
+
+
+### ...customize the sidebar?
+
+To customize the sidebar, open `_includes/sidebar.html`.
+
+```
+- title: "Title"	# text that will appears in the navigation menu
+  url: "/url"		# relative link address
+  side: left		# alignment of menu item (left, right)
+```
+
+
+
+
+
+
