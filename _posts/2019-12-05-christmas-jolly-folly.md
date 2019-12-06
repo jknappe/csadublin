@@ -6,6 +6,8 @@ layout: page
 subheadline: "An interesting post"
 title: "Seamus's Christmas Tale"
 teaser: "What adventures does Seamus get up to..."
+
+sidebar: right
 categories:
   - news
 tags:

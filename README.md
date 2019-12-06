@@ -39,20 +39,19 @@ or similarly ig you want to create a menu item with dropdown options:
 
 YAML header arguments:
 
-- `layout`:
-- `title`:
-- `subheadline`:
-- `author`:
-- `teaser`:
-- `categories`:
-- `tags`:
-- `sidebar`: *true*, *false* ... enables/diables a sidebar on the left
-- `show_meta`: *true*, *false* ... enables/diables display of meta data at the end of the post (e.g. author, category, tags)
-- `image`: has three sub-arguments
-  - `header`: 
-  - `thumb`:
-  - `homepage`:
-
+- `layout:`
+- `title:`
+- `subheadline:`
+- `author:`
+- `teaser:`
+- `categories:`
+- `tags:`
+- `sidebar:` *true*, *false* ... enables/diables a sidebar on the left
+- `show_meta:` *true*, *false* ... enables/diables display of meta data at the end of the post (e.g. author, category, tags)
+- `image:` has three sub-arguments
+  - `header:` 
+  - `thumb:`
+  - `homepage:` link to image feature on the index page, needs to be 970 px wide
 
 ### ...customize the sidebar?
 

@@ -28,6 +28,10 @@
   url: "/news/"
   side: left
   
+- title: "Recipies"
+  url: "/recipies/"
+  side: left
+  
 - title: Events
   url: "/events/"
   side: left
