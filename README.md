@@ -18,7 +18,7 @@ To customize the navigation menu, open `_data/navigation.yml`. You can add menu 
   side: left		# alignment of menu item (left, right)
 ```
 
-or similarly ig you want to create a menu item with dropdown options:
+or similarly if you want to create a menu item with dropdown options:
 
 ```
 - title: "About Us"
